@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:recyclerview-v7:24.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/97e82c9a9755d42929358cba43f24628/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/97e82c9a9755d42929358cba43f24628/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/97e82c9a9755d42929358cba43f24628/res" />
+      <root url="file://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/97e82c9a9755d42929358cba43f24628/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/modules-2/files-2.1/com.android.support/recyclerview-v7/24.0.0/7d5bcb1d9d740c56fa29a830e5430bae461c4c5b/recyclerview-v7-24.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

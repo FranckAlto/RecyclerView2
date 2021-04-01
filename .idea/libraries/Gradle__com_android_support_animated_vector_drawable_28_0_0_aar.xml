@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:animated-vector-drawable:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/cf4cae3b1ac8187c4f9c28a0577f1eba/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/cf4cae3b1ac8187c4f9c28a0577f1eba/res" />
+      <root url="file://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/cf4cae3b1ac8187c4f9c28a0577f1eba/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

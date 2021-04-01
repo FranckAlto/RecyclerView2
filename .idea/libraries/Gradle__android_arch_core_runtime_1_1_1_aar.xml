@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.core:runtime:1.1.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/7c36788525aacff087cf4989f55f3abf/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/7c36788525aacff087cf4989f55f3abf/res" />
+      <root url="file://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/7c36788525aacff087cf4989f55f3abf/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/modules-2/files-2.1/android.arch.core/runtime/1.1.1/25df553df10af32bede9dd768a2d15299543d84/runtime-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

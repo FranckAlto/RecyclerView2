@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.lifecycle:livedata-core:1.1.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/fd26aa1ecd87f8d69b70eef101246de6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/fd26aa1ecd87f8d69b70eef101246de6/res" />
+      <root url="file://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/transforms-2/files-2.1/fd26aa1ecd87f8d69b70eef101246de6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Android/CamerShop/.gradle/gradle-6.5-all/caches/modules-2/files-2.1/android.arch.lifecycle/livedata-core/1.1.1/c38818e006ea7a408c05e3090364332d46494ef/livedata-core-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
